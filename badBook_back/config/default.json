@@ -1,0 +1,4 @@
+{
+    "PORT": "3333",
+    "MongoUrl": "mongodb+srv://draw:pult77@cluster0.ar4yw.mongodb.net/draw?retryWrites=true&w=majority"
+}
